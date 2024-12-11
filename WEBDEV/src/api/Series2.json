@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "Title": "Movie title 1",
+    "imgsrc": "https://www.tallengestore.com/cdn/shop/products/MoneyHeist-Professor-NetflixTVShowMoviePoster_1b532e28-3aee-4650-9f80-aa739308b9a8.jpg?v=1589789116",
+    "Rating": "8.2",
+    "Review": "(123 90)",
+    "Year": "2028",
+    "Duration": "2h 0m",
+    "link": "https://www.netflix.com/in-en/title/80192098",
+    "Details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+  },
+  {
+    "id": "2",
+    "imgsrc": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2023/07/peaky-blinders-netflix-poster.jpg",
+    "Title": "Movie title 2",
+    "Rating": "8.5",
+    "Review": "(123 456)",
+    "Year": "2026",
+    "Duration": "2h 3m",
+    "link": "https://www.netflix.com/in/title/80002479",
+    "Details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+  },
+  {
+    "id": "3",
+    "imgsrc": "https://m.media-amazon.com/images/I/81mIVtv05TL.jpg",
+    "Title": "Movie title 3",
+    "Rating": "7.0",
+    "Review": "(123 78)",
+    "Year": "2024",
+    "Duration": "2h 6m",
+    "link": "https://www.netflix.com/in/title/80100172",
+    "Details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+  },
+  {
+    "id": "4",
+    "imgsrc": "https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQb9x6r8qAbUhd6gZHjmCVVeGfC05PBzG9vkJ07bvCt_pCTsBq842sRKIAivUmqGPed3-89FU6J4jwf9hSr9ViLb1HKkqS945IodAjYZZA1kIucWj7Ia7sIh1J4cM3htp0i0aG858Bcu98EoNQp9rw5FN.jpg?r=2db",
+    "Title": "Movie title 4",
+    "Rating": "7.2",
+    "Review": "(123 4)",
+    "Year": "2022",
+    "Duration": "2h 10m",
+    "link": "https://www.netflix.com/in/title/81160697",
+    "Details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+  }
+]

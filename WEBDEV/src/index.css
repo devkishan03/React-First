@@ -1,0 +1,87 @@
+body {
+  background-color: aquamarine;
+}
+#root {
+}
+.Card {
+  display: flex;
+  border: 0.1rem solid black;
+  width: 35rem;
+  background-color: cornflowerblue;
+  margin: 5px;
+}
+.Cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.Details {
+  display: block;
+  margin: 0%;
+}
+.Rating {
+  display: flex;
+  justify-content: space-around;
+  padding: 0px;
+  margin: 0px;
+}
+.Title {
+  text-align: center;
+  padding: 0px;
+  margin: 0px;
+}
+.Buttons {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.About {
+  margin: 10px 10px;
+}
+.img {
+  display: flex;
+  align-items: center;
+  margin-left: 0.5rem;
+}
+.Watch_btn {
+  height: 3rem;
+  background-color: red;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 1rem;
+}
+.Cart_btn {
+  height: 3rem;
+  background-color: blueviolet;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 1rem;
+}
+.Watch_btn:hover {
+  background-color: rgb(222, 150, 150);
+}
+.Cart_btn:hover {
+  background-color: rgb(199, 176, 220);
+}
+.Card:hover {
+  border: 3px solid rgb(80, 80, 88);
+  background-color: cornflowerblue;
+}
+p {
+  margin: 0%;
+}
+.hit {
+  background-color: orange;
+}
+.super-hit {
+  background-color: green;
+}
+.this-is-another-class {
+  border: 2px solid black;
+  width: 2rem;
+  text-align: center;
+  border-radius: 0.8rem;
+}
+.btn {
+  cursor: pointer;
+}
